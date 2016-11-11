@@ -1,0 +1,4 @@
+config = {
+    ssid = "MYSSID",
+    password = "MYPASSWD"
+}
